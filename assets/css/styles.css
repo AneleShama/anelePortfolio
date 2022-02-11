@@ -297,7 +297,7 @@ img {
 
 .home__social-icon {
   width: max-content;
-  font-size: 4rem;
+  font-size: 2rem;
   margin-bottom: var(--mb-2);
   color: var(--first-color-lighten);
 }
